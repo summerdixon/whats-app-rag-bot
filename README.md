@@ -1,1 +1,1 @@
-# an-ai-of-our-own
+# An AI of Our Own Community Partner Project
